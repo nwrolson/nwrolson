@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Noah 🎈 Currently looking for work as a Backend or Data Engineer
+
+📫 Email: noah.wrolson@gmail.com
+📟 Phone: 612-492-1815
 
 <!--
 **nwrolson/nwrolson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
