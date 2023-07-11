@@ -1,4 +1,5 @@
-### Hi, I'm Noah 🎈 Currently looking for work as a Backend or Data Engineer
+### Hi, I'm Noah 🎈 
+### Currently looking for work as a Backend or Data Engineer
 
 - 📫 Email: noah.wrolson@gmail.com
 - 📟 Phone: 612-492-1815
