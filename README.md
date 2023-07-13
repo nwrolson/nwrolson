@@ -24,7 +24,7 @@ When I'm not trapped behind a computer screen I enjoy unicycling.
 
 ![Static Badge](https://img.shields.io/badge/Tool-Ansible-darkgreen?logo=ansible&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Tool-Elasticsearch-darkgreen?logo=elasticsearch&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Tool-Elastic_Beats-green?logo=beats&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Tool-Elastic_Beats-darkgreen?logo=beats&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Tool-Logstash-darkgreen?logo=logstash&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Tool-Kibana-darkgreen?logo=kibana&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Tool-Docker-darkgreen?logo=docker&logoColor=white)
